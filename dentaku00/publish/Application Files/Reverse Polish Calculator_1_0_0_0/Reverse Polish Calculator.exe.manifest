@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Reverse Polish Calculator.exe" version="1.0.0.0" publicKeyToken="10b78c0e3938a8c5" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="hp.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Reverse Polish Calculator" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Reverse Polish Calculator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC マニフェスト オプション
+            Windows のユーザー アカウント制御のレベルを変更するには、
+            requestedExecutionLevel ノードを以下のいずれかで置換します。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            requestedExecutionLevel ノードを指定すると、ファイルおよびレジストリの仮想化は無効になります。
+            旧バージョンとの互換性のためにファイルおよびレジストリの仮想化を
+            使用する場合は、requestedExecutionLevel ノードを削除します。
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Reverse Polish Calculator.exe" size="228352">
+      <assemblyIdentity name="Reverse Polish Calculator" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>OGKkDc05ut9NT+RwQQgTj96ddz4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="hp.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NpkgzGsrrLj+7PHOcT56rU1u6R4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Reverse Polish Calculator.exe.config" size="77">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>w7WNgu5MxCvL4DAgISBxgwmhDzU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- このアプリケーションが動作するように設計されている、Windows のすべてのバージョンの一覧。Windows は最も互換性の高い環境を自動的に選択します。-->
+      <!-- アプリケーションが Windows 7 で動作するように設計されている場合は、次の supportedOS ノードのコメントを解除します。-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=AKINIO-X201\lenovo" issuerKeyHash="4e444d23219dea42fe42e43232ccc691b0d9d523" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>TH9yZLfzfw8w2EBGZz5ahGzmj4E=</DigestValue></Reference></SignedInfo><SignatureValue>LOtxgRRI20NKSSlmIf1KBNvyZNjOxSeStvYvt+DKeJBddMon67P50kOXrNRyRpxPMPmlegiLBBLbDV0sRDeHCTiqOpBVdycHT5JZPjBZuMGmHGpu/gt4SCw5K7JyEOsJ8i4zIz0Ol/VSfXCFD00jOrqRwRN6KYsytFqlEncP+BY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>t+0KKn3Pvo7AWeAmhg/BM+yZaEzA9C5OXLu4qxMZ+Cb6yiZD3PqpN02oAYPauTkDNmHOjlutZzoj5YcewZ8GZRFMyBsnefo/UXoJ4fkrB7zMVr+Q88r5pCoMBmfiY/QCdXlIKOFqrOcz2+IviubA3Ym+idxQ1oVJRIUN9zRqm9E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="818fe66c845a3e674640d8300f7ff3b764727f4c" Description="" Url=""><as:assemblyIdentity name="Reverse Polish Calculator.exe" version="1.0.0.0" publicKeyToken="10b78c0e3938a8c5" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=AKINIO-X201\lenovo</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>5idZLfkBMqZTqONklljC7uyeibQ=</DigestValue></Reference></SignedInfo><SignatureValue>imi/H6XnUC8bBLo1QCT5CH4E1DncYolW5jOOaKjXhb+p+H5lalNIanayp4/OkI4E5JzMKB0F3pCR3570ZC4xkAlIkogqQ+RnskY+O3iUNc8FRQBsBTCgo6FfagU09ZPk33KlTncI84cki+QNoKXQjD3Vco6ZmPZjXSY93lbwQg4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>t+0KKn3Pvo7AWeAmhg/BM+yZaEzA9C5OXLu4qxMZ+Cb6yiZD3PqpN02oAYPauTkDNmHOjlutZzoj5YcewZ8GZRFMyBsnefo/UXoJ4fkrB7zMVr+Q88r5pCoMBmfiY/QCdXlIKOFqrOcz2+IviubA3Ym+idxQ1oVJRIUN9zRqm9E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQW93Sl9pDTpZKsKklFPphIjANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQAQQBLAEkATgBJAE8ALQBYADIAMAAxAFwAbABlAG4AbwB2AG8wHhcNMTUxMTEwMTc0NDQzWhcNMTYxMTA5MjM0NDQzWjAvMS0wKwYDVQQDHiQAQQBLAEkATgBJAE8ALQBYADIAMAAxAFwAbABlAG4AbwB2AG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALftCip9z76OwFngJoYPwTPsmWhMwPQuTly7uKsTGfgm+somQ9z6qTdNqAGD2rk5AzZhzo5brWc6I+WHHsGfBmURTMgbJ3n6P1F6CeH5Kwe8zFa/kPPK+aQqDAZn4mP0AnV5SCjhaqznM9viL4rmwN2JvoncUNaFSUSFDfc0apvRAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAK4hmf0H9X2/Sj/TQh/jrJ8V1yUYWlkeNmff3T0wP6lz2sH82EEggvxqdkBu6Cmc9Ft7Is3yT3O89KfQhcUJAzvLtmciI4yqOtMZpZEtIPWUAVDikONDMaFR/Avwrh3ahlRPkCEL1fg8YyfxYkUsypF9dMvuEedmIJfPan1f9TqI=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

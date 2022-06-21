@@ -1,0 +1,28 @@
+C:\RT3prg\c#\dentaku00\dentaku00\bin\Release\dentaku00.exe
+C:\RT3prg\c#\dentaku00\dentaku00\bin\Release\dentaku00.pdb
+C:\RT3prg\c#\dentaku00\dentaku00\obj\x86\Release\dentaku00.Form1.resources
+C:\RT3prg\c#\dentaku00\dentaku00\obj\x86\Release\dentaku00.Form2.resources
+C:\RT3prg\c#\dentaku00\dentaku00\obj\x86\Release\dentaku00.Properties.Resources.resources
+C:\RT3prg\c#\dentaku00\dentaku00\obj\x86\Release\dentaku00.csproj.GenerateResource.Cache
+C:\RT3prg\c#\dentaku00\dentaku00\obj\x86\Release\dentaku00.exe
+C:\RT3prg\c#\dentaku00\dentaku00\obj\x86\Release\dentaku00.pdb
+C:\RT3prg\c#\dentaku00\Release\dentaku00.exe
+C:\RT3prg\c#\dentaku00\Release\dentaku00.pdb
+C:\RT3prg\c#\dentaku00\dentaku00\obj\x86\Release\dentaku00.csprojResolveAssemblyReference.cache
+D:\puroguramu\C#\dentaku00\dentaku00\obj\x86\Release\dentaku00.csprojResolveAssemblyReference.cache
+D:\puroguramu\C#\dentaku00\dentaku00\obj\x86\Release\dentaku00.Form1.resources
+D:\puroguramu\C#\dentaku00\dentaku00\obj\x86\Release\dentaku00.Form2.resources
+D:\puroguramu\C#\dentaku00\dentaku00\obj\x86\Release\dentaku00.Properties.Resources.resources
+D:\puroguramu\C#\dentaku00\dentaku00\obj\x86\Release\dentaku00.csproj.GenerateResource.Cache
+D:\puroguramu\C#\dentaku00\Release\Reverse Polish Calculator.exe
+D:\puroguramu\C#\dentaku00\Release\Reverse Polish Calculator.pdb
+D:\puroguramu\C#\dentaku00\dentaku00\obj\x86\Release\Reverse Polish Calculator.exe
+D:\puroguramu\C#\dentaku00\dentaku00\obj\x86\Release\Reverse Polish Calculator.pdb
+D:\puroguramu\C#\dentaku00\Reverse Polish Calculator\Reverse Polish Calculator.exe
+D:\puroguramu\C#\dentaku00\Reverse Polish Calculator\Reverse Polish Calculator.pdb
+D:\puroguramu\C#\dentaku00\Reverse Polish Calculator\Reverse Polish Calculator.exe.config
+D:\puroguramu\C#\dentaku00\Reverse Polish Calculator\Reverse Polish Calculator.exe.manifest
+D:\puroguramu\C#\dentaku00\Reverse Polish Calculator\Reverse Polish Calculator.application
+D:\puroguramu\C#\dentaku00\dentaku00\obj\x86\Release\Reverse Polish Calculator.TrustInfo.xml
+D:\puroguramu\C#\dentaku00\dentaku00\obj\x86\Release\Reverse Polish Calculator.exe.manifest
+D:\puroguramu\C#\dentaku00\dentaku00\obj\x86\Release\Reverse Polish Calculator.application
