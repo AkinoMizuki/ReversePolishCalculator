@@ -1,0 +1,7 @@
+C:\RT3prg\c#\dentaku00\hlpe\bin\Debug\hlpe.exe
+C:\RT3prg\c#\dentaku00\hlpe\bin\Debug\hlpe.pdb
+C:\RT3prg\c#\dentaku00\hlpe\obj\x86\Debug\hlpe.Properties.Resources.resources
+C:\RT3prg\c#\dentaku00\hlpe\obj\x86\Debug\hlpe.csproj.GenerateResource.Cache
+C:\RT3prg\c#\dentaku00\hlpe\obj\x86\Debug\hlpe.exe
+C:\RT3prg\c#\dentaku00\hlpe\obj\x86\Debug\hlpe.pdb
+C:\RT3prg\c#\dentaku00\hlpe\obj\x86\Debug\hlpe.Form2.resources
